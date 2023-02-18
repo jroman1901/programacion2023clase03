@@ -1,0 +1,7 @@
+abstract_factory/Circulo.class
+abstract_factory/simple_factory.class
+abstract_factory/Rectangulo.class
+abstract_factory/Shape.class
+abstract_factory/main.class
+abstract_factory/figuras_factory.class
+com/umg/patrones_diseno/Patrones_diseno.class

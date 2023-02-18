@@ -1,0 +1,9 @@
+jpa/Product_.class
+jpa/vista$1.class
+jpa/vista.class
+jpa/exceptions/IllegalOrphanException.class
+jpa/Product.class
+jpa/exceptions/PreexistingEntityException.class
+jpa/exceptions/NonexistentEntityException.class
+jpa/JPA.class
+jpa/ProductJpaController.class

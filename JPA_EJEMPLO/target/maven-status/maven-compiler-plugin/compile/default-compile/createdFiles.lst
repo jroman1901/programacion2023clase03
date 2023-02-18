@@ -1,0 +1,9 @@
+com/umg/jpa/modelo/Empleados.class
+com/umg/jpa/controller/exceptions/IllegalOrphanException.class
+com/umg/jpa/vista/empleados$1.class
+com/umg/jpa/modelo/Empleados_.class
+com/umg/jpa/controller/exceptions/PreexistingEntityException.class
+com/umg/jpa/controller/exceptions/NonexistentEntityException.class
+com/umg/jpa/main/JPA_EJEMPLO.class
+com/umg/jpa/controller/EmpleadosJpaController.class
+com/umg/jpa/vista/empleados.class

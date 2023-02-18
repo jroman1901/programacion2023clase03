@@ -1,0 +1,7 @@
+/Users/apioriente/NetBeansProjects/JPA_EJEMPLO/src/main/java/com/umg/jpa/controller/exceptions/PreexistingEntityException.java
+/Users/apioriente/NetBeansProjects/JPA_EJEMPLO/src/main/java/com/umg/jpa/controller/exceptions/IllegalOrphanException.java
+/Users/apioriente/NetBeansProjects/JPA_EJEMPLO/src/main/java/com/umg/jpa/vista/empleados.java
+/Users/apioriente/NetBeansProjects/JPA_EJEMPLO/src/main/java/com/umg/jpa/controller/exceptions/NonexistentEntityException.java
+/Users/apioriente/NetBeansProjects/JPA_EJEMPLO/src/main/java/com/umg/jpa/main/JPA_EJEMPLO.java
+/Users/apioriente/NetBeansProjects/JPA_EJEMPLO/src/main/java/com/umg/jpa/controller/EmpleadosJpaController.java
+/Users/apioriente/NetBeansProjects/JPA_EJEMPLO/src/main/java/com/umg/jpa/modelo/Empleados.java
