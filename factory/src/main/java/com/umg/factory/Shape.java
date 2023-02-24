@@ -2,19 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package abstract_factory;
+package com.umg.factory;
 
 /**
  *
  * @author apioriente
  */
-public class Circulo implements Shape {
-
-    @Override
-    public void Dibujar() {
-        System.out.println("Dibujando circulo");
-    }
-
-   
+class Shape {
     
 }

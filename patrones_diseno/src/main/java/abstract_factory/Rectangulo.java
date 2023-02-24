@@ -10,12 +10,10 @@ package abstract_factory;
  */
 public class Rectangulo implements Shape {
 
-    public Rectangulo() {
-    }
-
     @Override
     public void Dibujar() {
-        System.out.println("Estamos dibujando un rectangulo");
+        System.out.println("Dibujando un rectangulo...");
     }
-    
+
+  
 }
